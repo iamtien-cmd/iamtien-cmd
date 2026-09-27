@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Tien 👋
 
-<!--
-**iamtien-cmd/iamtien-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `Tien.java` is running... ☕️
 
-Here are some ideas to get you started:
+Sometimes I write code.  
+Sometimes the code writes my problems for me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning, building, debugging, and repeating.
+
+<details>
+<summary>🔎 More about me</summary>
+
+☕ Java & Backend  
+🛠️ Software Engineering  
+🐛 Professional bug negotiator  
+🚀 Building things one commit at a time
+
+</details>
