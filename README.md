@@ -7,6 +7,8 @@ Sometimes the code writes my problems for me.
 
 Currently learning, building, debugging, and repeating.
 
+[🐍 Wanna play? ](https://iamtien-cmd.github.io/github-snake/)
+
 <details>
 <summary>🔎 More about me</summary>
 
